@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello world</h1>
+    <p>Menambahkan paragraf</p>
 </body>
 </html>
